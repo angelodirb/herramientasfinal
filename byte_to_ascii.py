@@ -1,4 +1,4 @@
-def byte_to_ascii(byte_str):
+xdef byte_to_ascii(byte_str):
     """Convierte una representación en byte (binario) a su valor ASCII."""
     ascii_char = chr(int(byte_str, 2))
     ascii_value = ord(ascii_char)
