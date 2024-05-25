@@ -1,4 +1,4 @@
-xfrom char_to_byte import char_to_byte
+from char_to_byte import char_to_byte
 from word_to_bytes import word_to_bytes
 from byte_to_ascii import byte_to_ascii
 
